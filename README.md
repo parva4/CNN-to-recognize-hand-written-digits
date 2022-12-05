@@ -1,4 +1,5 @@
-# CNN-to-recognize-hand-written-digits
+# Deep-Learning-Model-to-Recognise-Hand-written-Digits
+
 To run the code, please follow the steps below [Dataset Link: https://archive.ics.uci.edu/ml/datasets/pen-based+recognition+of+handwritten+digits]:
 • Upload files named ‘pendigits-orig.tra’, ‘pendigits-orig.tes’, ‘pendigits-train.csv’ and
 ‘pendigits-test.csv’ on your google colab
